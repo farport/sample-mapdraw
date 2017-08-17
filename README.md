@@ -9,6 +9,9 @@ Please note that this is only enabled for the following states:
 * New Mexico
 * Kansas
 
+#### Sample URL:
+
+* http://www.farport.co/sample-mapdraw/
 
 #### Dependencies:
 
