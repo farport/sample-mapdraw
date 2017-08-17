@@ -1,0 +1,5 @@
+.canvas-style {
+    pointer-events: none;
+    position: absolute;
+    border: 1px solid red;
+}
